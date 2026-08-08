@@ -40,7 +40,7 @@ export default function Footer() {
               <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-brand-500 to-accent-500 text-white shadow-lg shadow-brand-500/30">
                 <Code2 size={18} strokeWidth={2.5} />
               </span>
-              Alex<span className="text-gradient">.dev</span>
+              Tajmul<span className="text-gradient">.dev</span>
             </a>
             <p className="text-sm text-slate-500 dark:text-slate-400">
               &copy; {year} {profile.name}. All rights reserved.
